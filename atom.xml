@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>KO Safety and Security Services</title>
+	<title>KO Safety &amp;amp; Security Services</title>
 	<link href="http://www.kosss.co.uk/atom.xml" rel="self"/>
 	<link href="http://www.kosss.co.uk"/>
-	<updated>2013-06-19T17:14:37.972Z</updated>
+	<updated>2013-09-06T17:21:32.634Z</updated>
 	<id>http://www.kosss.co.uk</id>
 	<author>
 		<name>Kwasi Boateng</name>
-		<email>kosss@gmail.com</email>
+		<email>admin@kosss.co.uk</email>
 	</author>
 
 	
@@ -28,13 +28,13 @@
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 
 	&lt;!-- Our site title and description --&gt;
-	&lt;title&gt;This is a Goodbye Blog Post | KO Safety and Security Services&lt;/title&gt;
+	&lt;title&gt;This is a Goodbye Blog Post | KO Safety &amp;amp;amp; Security Services&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;safety and security services, safety, security&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;Kwasi Boateng&quot; /&gt;
 
 	&lt;!-- Output DocPad produced meta elements --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.38.1&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
 
 	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
@@ -52,22 +52,34 @@
 	&lt;![endif]--&gt;
 
 	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/js-image-slider.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
 	&lt;!-- Markup --&gt;
 	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
 		&lt;div class=&quot;navbar-inner&quot;&gt;
 			&lt;div class=&quot;container&quot;&gt;
-				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Welcome&lt;/a&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;K.O. Safety &amp;amp; Security&lt;/a&gt;
 				&lt;ul class=&quot;nav&quot;&gt;
 					
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/hello&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/hello&quot; property=&quot;dc:title&quot;&gt;This is a Page&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/licensing&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/licensing&quot; property=&quot;dc:title&quot;&gt;Licensing &amp;amp; Certification&lt;/a&gt;
 						&lt;/li&gt;
 					
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/posts&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/posts&quot; property=&quot;dc:title&quot;&gt;Posts&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/prices&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/prices&quot; property=&quot;dc:title&quot;&gt;Prices &amp;amp; Offers&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;About Us&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/contact&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot;&gt;Contact Us&lt;/a&gt;
 						&lt;/li&gt;
 					
 				&lt;/ul&gt;
@@ -98,15 +110,60 @@
 &lt;/footer&gt;
 		&lt;/section&gt;
 		&lt;footer&gt;
-			&lt;p class=&quot;pull-left&quot;&gt;&amp;copy; KO Safety and Security Services 2013&lt;/p&gt;
+			&lt;p class=&quot;pull-left&quot;&gt;&amp;copy; K.O. Safety &amp;amp; Security Services 2013&lt;/p&gt;
 			&lt;p class=&quot;pull-right&quot;&gt;
-				This website was last updated at 2013-06-19T17:14:37.972Z
+				This website was last updated at 2013-09-06T17:21:32.634Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
 
 	&lt;!-- Scripts --&gt;
-	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/image-slider.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
@@ -129,13 +186,13 @@
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 
 	&lt;!-- Our site title and description --&gt;
-	&lt;title&gt;This is a Hello Blog Post | KO Safety and Security Services&lt;/title&gt;
+	&lt;title&gt;This is a Hello Blog Post | KO Safety &amp;amp;amp; Security Services&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;safety and security services, safety, security&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;Kwasi Boateng&quot; /&gt;
 
 	&lt;!-- Output DocPad produced meta elements --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.38.1&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
 
 	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
@@ -153,22 +210,34 @@
 	&lt;![endif]--&gt;
 
 	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/js-image-slider.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
 	&lt;!-- Markup --&gt;
 	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
 		&lt;div class=&quot;navbar-inner&quot;&gt;
 			&lt;div class=&quot;container&quot;&gt;
-				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Welcome&lt;/a&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;K.O. Safety &amp;amp; Security&lt;/a&gt;
 				&lt;ul class=&quot;nav&quot;&gt;
 					
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/hello&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/hello&quot; property=&quot;dc:title&quot;&gt;This is a Page&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/licensing&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/licensing&quot; property=&quot;dc:title&quot;&gt;Licensing &amp;amp; Certification&lt;/a&gt;
 						&lt;/li&gt;
 					
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/posts&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/posts&quot; property=&quot;dc:title&quot;&gt;Posts&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/prices&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/prices&quot; property=&quot;dc:title&quot;&gt;Prices &amp;amp; Offers&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;About Us&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/contact&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot;&gt;Contact Us&lt;/a&gt;
 						&lt;/li&gt;
 					
 				&lt;/ul&gt;
@@ -191,10 +260,6 @@
 			
 				&lt;li&gt;&lt;span&gt;Wed Jun 19 2013&lt;/span&gt;
 				&amp;raquo;
-				&lt;a href=&quot;/pages/hello&quot;&gt;This is a Page&lt;/a&gt;&lt;/li&gt;
-			
-				&lt;li&gt;&lt;span&gt;Wed Jun 19 2013&lt;/span&gt;
-				&amp;raquo;
 				&lt;a href=&quot;/posts/bye&quot;&gt;This is a Goodbye Blog Post&lt;/a&gt;&lt;/li&gt;
 			
 		&lt;/nav&gt;
@@ -203,15 +268,60 @@
 &lt;/footer&gt;
 		&lt;/section&gt;
 		&lt;footer&gt;
-			&lt;p class=&quot;pull-left&quot;&gt;&amp;copy; KO Safety and Security Services 2013&lt;/p&gt;
+			&lt;p class=&quot;pull-left&quot;&gt;&amp;copy; K.O. Safety &amp;amp; Security Services 2013&lt;/p&gt;
 			&lt;p class=&quot;pull-right&quot;&gt;
-				This website was last updated at 2013-06-19T17:14:37.972Z
+				This website was last updated at 2013-09-06T17:21:32.634Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
 
 	&lt;!-- Scripts --&gt;
-	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/image-slider.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
